@@ -5,6 +5,8 @@ em uma operadora de saúde suplementar (Unimed), com dashboard web.
 
 Projeto Integrador em Computação IV (PJI410), Universidade Virtual do Estado de São Paulo (UNIVESP), 2026.
 
+Vídeo de apresentação: https://youtu.be/IDzpbCfHJkQ
+
 ## O que o projeto faz
 
 - **Anonimiza** a base de exames da operadora: retira nome, CPF e data de nascimento,
