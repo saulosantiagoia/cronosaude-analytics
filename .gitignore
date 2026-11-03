@@ -1,0 +1,16 @@
+# Dados da operadora e saídas do pipeline (nunca versionar)
+dados/
+modelos/
+resultados/
+*.xlsx
+*.csv
+*.db
+
+# Segredos
+.env
+deploy/.htpasswd
+
+# Ambiente
+.venv/
+__pycache__/
+*.pyc

@@ -1,0 +1,9 @@
+# Versões usadas para gerar os resultados do relatório (Python 3.11).
+pandas==3.0.6
+numpy==2.4.6
+openpyxl==3.1.5
+scikit-learn==1.9.1
+joblib==1.6.0
+matplotlib==3.10.9
+streamlit==1.66.1
+altair==6.3.0
